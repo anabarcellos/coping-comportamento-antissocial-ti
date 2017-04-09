@@ -16,33 +16,33 @@ duplos** e de que **sugerir comportamentos que não apenas minimizem problemas,
 mas também NÃO cause prejuízo pessoal ao replicador**, é mais eficiente para
 re-educar e tornar qualquer pessoa que observa um potencial replicador.
 
-Esse projeto é baseado em observação de interações sociais entre profissionais
+Este projeto é baseado em observação de interações sociais entre profissionais
 de T.I. e, tanto para identificação como para resolução, fortemente em [Teoria
 de Aprendizagem Social](https://en.wikipedia.org/wiki/Social_learning_theory).
 
 ## Estratégias de coping sugeridas
 
 - _Por que não posso ridicularizar um aprendiz, se na minha época eu aprendi sendo ridicularizado?_
-  - **Porque isso desestimula aprendizagem, e você mesmo teria aprendido mais rápido com incentivo construtivo**
+  - **Porque isso desestimula aprendizagem, e você mesmo teria aprendido mais rápido com incentivo construtivo**
 - _Por que não posso compartilhar conteúdo sexualizado? Por que só reclamam do sexo tal, e não do outro?_
-- _Essa pessoa do sexo tal quer se exibir; Por que não posso ajudar ela divulgando no nosso meio?_
+- _Essa pessoa do sexo tal quer se exibir; Por que não posso ajudá-la divulgando no nosso meio?_
   - **Profissionais de T.I. falam de T.I. e sexualidade, independente do sexo, não é pertinente;**
-  - **você pode fazer isso, mas aqui não é um bom lugar: é mais eficiente você procurar locais específicos para falar sorbe o tema, e manter esse ambiente inclusivo para todos os sexos**
-- _Reclamar que não posso falar disso é coisa de Feminismo/Bolsominion/OutroGrupo!!! O mundo está chato/facista/etc!!!_
-  - **Este é um grupo de T.I.; Sua reclamação vale tanto pra um lado como para o outro; se alguma vez no passado desse grupo não reagiram assim, bem, as coisas muda, e você poderá reforçar essa minha/nossa condulta sem precisar de moderador lhe dizendo; quanto ao que o mundo está ou não, ou se você pode ou não dizer fora desse grupo, não importa, é mais eficiente você reclamar desse tema nos outros locais em que ocorre, não aqui**
+  - **você pode fazer isso, mas aqui não é um bom lugar: é mais eficiente você procurar locais específicos para falar sobre o tema, e manter esse ambiente inclusivo para todos os sexos**
+- _Reclamar que não posso falar disso é coisa de Feminazi/Bolsominion/OutroGrupo!!! O mundo está chato/fascista/etc!!!_
+  - **Este é um grupo de T.I.; Sua reclamação vale tanto para um lado como para o outro; se alguma vez no passado desse grupo não reagiram assim, bem, as coisas mudam, e você poderá reforçar essa minha/nossa conduta sem precisar de moderador lhe dizendo; quanto ao que o mundo está ou não, ou se você pode ou não dizer fora desse grupo, não importa, é mais eficiente você reclamar desse tema nos outros locais em que ocorre, não aqui**
 - _Esses angolanos* são folgados, não buscam no Google, querem te adicionar no WhatsApp/Facebook, etc_ (*: ou outro país além do Brasil e Portugal que fale português)
-  - **Assim como nas regiões pobres do Brasil, ou mesmo seu próprio celular, na Africa é comum operadoras de telefone fornecerem banca ilimitada apenas para certas aplicações, principalmente Facebook/WhatsApp, então é provável que tal pessoa não tenha opção pra aprender; leve em conta que o Brasil década e pouco atrás também não tinha bom acesso a internet, e muitos dos grandes profissionais que você conhece passaram por situações como o angolado que reclama**
-- _Esses angolados* escrevem tudo errado; deveria ter um lugar isolado pra eles aprenderem, aqui é so pra brasileiros_
-  - **A pessoa da qual reclama fala provavelmente no mínimo duas línguas; nas comunidades internacionais é comum haver respeito com pessoal que fala inglês não perfeito porque sabem desse fato; assumir que tais angolados\*; o que seria dos desenvolvedores do nosso país se americanos ou inglêses resolvessem expulsar quem não escreve nativamente sua língua? E, mesmo que você fale bem inglês, lembre-se que muitas fontes de informação de T.I. só exisitiram porque não ouve esse tipo de preconceito, que tende a ser xenofobia**
+  - **Assim como nas regiões pobres do Brasil, ou mesmo seu próprio celular, na Africa é comum operadoras de telefone fornecerem banda ilimitada apenas para certas aplicações, principalmente Facebook/WhatsApp, então é provável que tal pessoa não tenha opção pra aprender; leve em conta que o Brasil década e pouco atrás também não tinha bom acesso a internet, e muitos dos grandes profissionais que você conhece passaram por situações como o angolado que reclama**
+- _Esses angolados* escrevem tudo errado; deveria ter um lugar isolado para eles aprenderem, aqui é só para brasileiros_
+  - **A pessoa da qual reclama fala provavelmente no mínimo duas línguas; nas comunidades internacionais é comum haver respeito com pessoal que fala inglês não perfeito porque sabem desse fato; assumir que tais angolados\*; o que seria dos desenvolvedores do nosso país se americanos ou ingleses resolvessem expulsar quem não escreve nativamente sua língua? E, mesmo que você fale bem inglês, lembre-se que muitas fontes de informação de T.I. só exisitiram porque não houve esse tipo de preconceito, que tende a ser xenofobia**
 
 _Este é um repositório recente, logo é esperado ter poucas sugestões práticas
 para uso imediato, porém [amostras](amostras/index.md) de casos reais são
-analizadas e as estratégias de coping serão testadas na prática para ver se
+analisadas e as estratégias de coping serão testadas na prática para verificarmos se
 são ou não eficientes._
 
 ## Estratégias de não-coping (não recomendadas, possuem efeitos colaterais negativos)
 
-Esta lista, nesse momento, não cita estratégias comuns de não-coping, porém
+Esta lista, neste momento, não cita estratégias comuns de não-coping, porém
 informa formas de você identificar. É recomendável você pesquisar mais a
 respeito antes de aceitar esses pontos abaixo como verdadeiros.
 
